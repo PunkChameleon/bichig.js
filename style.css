@@ -55,6 +55,7 @@ body {
 
 .io-child {
     flex: 1;
+    width: 50%;
     padding: 8px;
 }
 
